@@ -1,0 +1,19 @@
+D:\Коды  программ\Blowfish\bin\Debug\Blowfish.exe.config
+D:\Коды  программ\Blowfish\bin\Debug\Blowfish.exe
+D:\Коды  программ\Blowfish\bin\Debug\Blowfish.pdb
+D:\Коды  программ\Blowfish\obj\Debug\Blowfish.csprojAssemblyReference.cache
+D:\Коды  программ\Blowfish\obj\Debug\Blowfish.Form1.resources
+D:\Коды  программ\Blowfish\obj\Debug\Blowfish.Properties.Resources.resources
+D:\Коды  программ\Blowfish\obj\Debug\Blowfish.csproj.GenerateResource.cache
+D:\Коды  программ\Blowfish\obj\Debug\Blowfish.exe
+D:\Коды  программ\Blowfish\obj\Debug\Blowfish.pdb
+E:\Blowfish\bin\Debug\Blowfish.exe.config
+E:\Blowfish\bin\Debug\Blowfish.exe
+E:\Blowfish\bin\Debug\Blowfish.pdb
+E:\Blowfish\obj\Debug\Blowfish.csprojAssemblyReference.cache
+E:\Blowfish\obj\Debug\Blowfish.Form1.resources
+E:\Blowfish\obj\Debug\Blowfish.Properties.Resources.resources
+E:\Blowfish\obj\Debug\Blowfish.csproj.GenerateResource.cache
+E:\Blowfish\obj\Debug\Blowfish.csproj.CoreCompileInputs.cache
+E:\Blowfish\obj\Debug\Blowfish.exe
+E:\Blowfish\obj\Debug\Blowfish.pdb
